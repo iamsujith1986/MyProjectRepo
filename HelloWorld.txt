@@ -1,5 +1,9 @@
 This is created in GitHub
 
+Updated in Branch2
+Added the comment
+
+
 Updated in TestBranch1
 
 Updated on master branch
